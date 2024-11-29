@@ -12,7 +12,7 @@ title                    : "Antonia C. May"
 title_separator          : "-"
 name                     : &name "Antonia C. May"
 description              : &description "National Identities, Political Behaviour, Identity Activation, Data Harmonisation"
-url                      : https://www.antoniamay.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mayantonia.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mayantonia/mayantonia.github.io"
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 

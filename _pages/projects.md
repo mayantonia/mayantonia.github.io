@@ -15,13 +15,10 @@ NexCiCo - A Next-Generation Randomised Citizen Council for Encouraging Political
 
  NexCiCo examines the impact of citizen councils on political attitudes.
 
- **Leader**: [Dr. Sebastian Ziaja](https://www.gesis.org/en/institute/about-us/staff/person/Sebastian.Ziaja?no_cache=1)
- 
- **Team**: Antonia May (Project Member)
- 
- **Runtime**: 2024-05-01 – 2025-04-30 (ongoing)
- 
- **Funding**: VolkswagenStiftung
+ **Leader**: [Dr. Sebastian Ziaja](https://www.gesis.org/en/institute/about-us/staff/person/Sebastian.Ziaja?no_cache=1)  
+ **Team**: Antonia May (Project Member)  
+ **Runtime**: 2024-05-01 – 2025-04-30 (ongoing)  
+ **Funding**: VolkswagenStiftung  
  
  More Info: [GESIS Web](https://www.gesis.org/en/research/external-funding-projects/details/project/251)
  

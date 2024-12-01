@@ -11,7 +11,7 @@ To Draw a Line: National Identities and their Political Consequences. (*Disserta
 
  Despite increased globalisation and growing international migration, nation states, nationalism, and national identification continue to play a crucial role. Particuarly, nationalist positions have recently regained ground dramatically in national politics. The recent resurgence and the successes of far-right parties emphasising national exclusivity (Mudde 2007; Halikiopoulou et al. 2013; Halikiopoulou and Vlandas 2019) demonstrate the continuing relevance of national identity for individuals. This relevance of the nation to the individual, and particularly the political consequences of this relevance, is the focus of my dissertation.
  
- <center><img src="/images/Dissertation.png"></right>  
+ <right><img src="/images/Dissertation.png"></right>  
  
  How individuals draw the line between compatriots and outsiders thereby plays a crucial role in explaining far-right attitudes and voting. I have identified meaningful types of national boundary-making across countries, time, different survey instruments, and empirical studies, with those individuals with narrow conceptions of their national in-group being significantly more likely to choose a far-right party. This relationship is particularly strong in times when public debate focuses on national or immigration-related issues. Specifically, national identities are activated by the accommodation of extreme right-wing immigration positions by political elites of all parties, as well as by the presence of immigration-related issues in the mass media, which is of particular benefit to extreme right-wing parties, not only in general, but also specifically by activating those with narrow conceptions.  
  

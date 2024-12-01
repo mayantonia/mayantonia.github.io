@@ -8,10 +8,12 @@ author_profile: true
 To Draw a Line: National Identities and their Political Consequences. (*Dissertation*)
 ======
 
- Despite increased globalisation and growing international migration, nation states, nationalism, and national identification continue to play a crucial role in organising the world politically, economically, and socially. Particuarly, nationalist positions have recently regained ground dramatically in national politics. This recent resurgence and the successes of far-right parties emphasising national exclusivity (Mudde 2007; Halikiopoulou et al. 2013; Halikiopoulou and Vlandas 2019) demonstrate the continuing relevance of national identity for individuals. This relevance of the nation to the individual, and particularly the political consequences of this relevance, is the focus of my dissertation.
+ Despite increased globalisation and growing international migration, nation states, nationalism, and national identification continue to play a crucial role. Particuarly, nationalist positions have recently regained ground dramatically in national politics. The recent resurgence and the successes of far-right parties emphasising national exclusivity (Mudde 2007; Halikiopoulou et al. 2013; Halikiopoulou and Vlandas 2019) demonstrate the continuing relevance of national identity for individuals. This relevance of the nation to the individual, and particularly the political consequences of this relevance, is the focus of my dissertation.
  
+ <center><img src="/images/Dissertation.png"></right>  
  
-
+ How individuals draw the line between compatriots and outsiders thereby plays a crucial role in explaining far-right attitudes and voting. I have identified meaningful types of national boundary-making across countries, time, different survey instruments, and empirical studies, with those individuals with narrow conceptions of their national in-group being significantly more likely to choose a far-right party. This relationship is particularly strong in times when public debate focuses on national or immigration-related issues. Specifically, national identities are activated by the accommodation of extreme right-wing immigration positions by political elites of all parties, as well as by the presence of immigration-related issues in the mass media, which is of particular benefit to extreme right-wing parties, not only in general, but also specifically by activating those with narrow conceptions.  
+ 
 NexCiCo - A Next-Generation Randomised Citizen Council for Encouraging Political Participation at the Local Level
 ======
 
@@ -56,8 +58,6 @@ LORDpilot - Linked Open Research Data for Social Science Pilot Study
 ONBound - Old and new boundaries: National Identities and Religion
 ======
  <center><img src="/images/onbound_graph.png"></center>  
- 
- ![](/images/onbound_graph.png)  
  
  In times of globalization on the one hand, and growing divergence also within society e.g. in terms of wealth and life chances on the other hand, national and religious identities seem to re-gain salience as markers for exclusion, or inclusion, for a differentiation between "us" and "them". 
  The ONBound project seeks to increase the understanding of how national and religious identities are intertwined, or exclude each other, in the modern world. On this purpose, we browsed a vast array of existing individual level and contextual data and built a database that offers the opportunity for scientific research to explore these issues. Beyond individual-level survey data the database contains relevant country-level indicators for research questions on one or both topics.Due to copyright restrictions, researchers need to download the original datasets from the original sources. Thereupon, ONBound provides a set of customized syntax files for cumulation and harmonization of the data.

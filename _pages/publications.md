@@ -35,7 +35,7 @@ Data
 ======
  Schulz, Sonja, Bernd Weiß, Sebastian Sterl, Anna-Carolina Haensch, Lisa Schmid, and Antonia May (2021). Harmonizing and synthesizing partnership histories from different research data infrastructures: A model project for linking research data from various infrastructure (HaSpaD). Datenfile Version 1.2. [https://doi.org/10.7802/2429](https://doi.org/10.7802/2429).
 
- Bechert, Insa, Antonia May, Markus Quandt, and Katharina Werhan (2020). ONBound - Old and new boundaries: National Identities and Religion: Customized dataset. GESIS Data Archive, Cologne. [Access here](https://www.gesis.org/en/services/processing-and-analyzing-data/data-harmonization/onbound). 
+ Bechert, Insa, Antonia May, Markus Quandt, and Katharina Werhan (2020). ONBound - Old and new boundaries: National Identities and Religion: Customized dataset. GESIS Data Archive, Cologne. [Request access here](https://www.gesis.org/en/services/processing-and-analyzing-data/data-harmonization/onbound). 
  
  Giebler, Heiko, Josephine Lichteblau, Antonia May, Reinhold Melcher, Aiko Wagner, and Bernhard Weßels (2016). "CSES MODULE 1-3 HARMONIZED TREND FILE [dataset]" : May 31, 2016 version. [doi: 10.7804/cses.trendfile.2016-05-31]( https://doi.org/10.7804/cses.trendfile.2016-05-31).
 

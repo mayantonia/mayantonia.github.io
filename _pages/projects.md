@@ -5,61 +5,62 @@ permalink: /projects/
 author_profile: true
 ---
 
-My research primarily focuses on national identities and their relevance for political attitudes and voting behaviour.
-
-All my articles are freely available. You can find my articles on [Google Scholar](https://scholar.google.com/citations?user=9keKZQ0AAAAJ&hl=de).
-
-In the spirit of transparent and replicable research, you can find the replication files of my articles on the [Open Science Framework](https://osf.io/z26f9/). Feel free to use the material for secondary analyses, teaching or other purposes. 
-
-Peer-reviewed journal articles
+To Draw a Line: National Identities and their Political Consequences.
 ======
 
- May, Antonia C., & Christian S. Czymara (2024). Careless whisper: Political elite discourses activate national identities for far-right voting preferences. Nations and Nationalism, 30(1), 90–109. [https://doi.org/10.1111/nana.12985](https://doi.org/10.1111/nana.12985). 
- 
- May, Antonia C. (2023). And if they don't dance, they are no friends of mine: Exploring boundaries of national identity. Nations and Nationalism, 29(2), 579–597. [https://doi.org/10.1111/nana.12926](https://doi.org/10.1111/nana.12926).
- 
 
-Working and discussion paper
+NexCiCo - A Next-Generation Randomised Citizen Council for Encouraging Political Participation at the Local Level
 ======
 
- Daniel, Andreas, Jan Goebel, Dagmar Kern, Daniel Klein, Antonia May, Fakhri Momeni, Jana Nebelin, Claudia Saalbach, Pascal Siegers, Knut Wenzig, and Benjamin Zapilko (2024). A pilot study for "Linked Open Research Data" (LORDpilot): a LOD-based Concept Registry for social science research data. zenodo. [https://doi.org/10.5281/zenodo.11047522](https://doi.org/10.5281/zenodo.11047522).
+ **Leader**: [Dr. Sebastian Ziaja](https://www.gesis.org/en/institute/about-us/staff/person/Sebastian.Ziaja?no_cache=1)
+ **Team**: Antonia May (Project Member)
+ **Runtime**: 2024-05-01 – 2025-04-30 (ongoing)
+ **Funding**: VolkswagenStiftung
  
- Schulz, Sonja, Bernd Weiß, Sebastian Sterl, Anna-Carolina Haensch, Lisa Schmid, and Antonia May (2021). HaSpaD - Data Manual. GESIS Papers 2021/12. Cologne: GESIS - Leibniz-Institute for the Social Sciences. [https://doi.org/10.21241/ssoar.75135](https://doi.org/10.21241/ssoar.75135).
-
- Schulz, Sonja, Bernd Weiß, Sebastian Sterl, Anna-Carolina Haensch, Lisa Schmid, and Antonia May (2021). HaSpaD - Datenhandbuch. GESIS Papers 2021/13. Cologne: GESIS - Leibniz-Institute for the Social Sciences. [https://doi.org/10.21241/ssoar.75134](https://doi.org/10.21241/ssoar.75134).  
- 
- May, Antonia, Katharina Werhan, Insa Bechert, and Markus Quandt (2021). ONBound-Harmonization User Guide (Stata/SPSS), Version1.1. GESIS Papers 2021/04. Cologne: GESIS - Leibniz-Institute for the Social Sciences. [https://doi.org/10.21241/ssoar.72442](https://doi.org/10.21241/ssoar.72442).
+ More Info: [GESIS Web](https://www.gesis.org/en/research/external-funding-projects/details/project/251)
  
  
-Data
+LORDpilot - Linked Open Research Data for Social Science Pilot Study 
 ======
- Schulz, Sonja, Bernd Weiß, Sebastian Sterl, Anna-Carolina Haensch, Lisa Schmid, and Antonia May (2021). Harmonizing and synthesizing partnership histories from different research data infrastructures: A model project for linking research data from various infrastructure (HaSpaD). Datenfile Version 1.2. [https://doi.org/10.7802/2429](https://doi.org/10.7802/2429).
 
- Bechert, Insa, Antonia May, Markus Quandt, and Katharina Werhan (2020). ONBound - Old and new boundaries: National Identities and Religion: Customized dataset. GESIS Data Archive, Cologne. [Access here](https://www.gesis.org/en/services/processing-and-analyzing-data/data-harmonization/onbound). 
+ The ‘LORDpilot’ project evaluates the practicability of a Concept Registry for the social and economic sciences, develops a basic data model for the Concept Registry and a user-friendly application. To this end, exemplary for a selection of overlapping content of important data collections in the disciplines (ALLBUS, SOEP, Nacaps) concepts are identified, questions and variables are linked to the concepts, and relationships across the concepts between the data collections are established. Theoretical concepts are identified through intellectual analysis and comparison, as well as research on measurement tools and dataset-related publications.
  
- Giebler, Heiko, Josephine Lichteblau, Antonia May, Reinhold Melcher, Aiko Wagner, and Bernhard Weßels (2016). "CSES MODULE 1-3 HARMONIZED TREND FILE [dataset]" : May 31, 2016 version. [doi: 10.7804/cses.trendfile.2016-05-31]( https://doi.org/10.7804/cses.trendfile.2016-05-31).
+ **Leader**: Dr. Andreas Daniel (DZHW), Dr. Jan Goebel (DIW), [Dr. Dagmar Kern (GESIS)](https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/dagmar.kern), [Dr. Pascal Siegers (GESIS)](https://www.gesis.org/en/institute/about-us/staff/person/pascal.siegers)
+ **Team**: Daniel Klein (DZHW), Antonia May, Fakhri Momeni (GESIS), Jana Nebelin (DIW), Claudia Saalbach (DIW), Knut Wenzig (DIW), Dr. Benjamin Zapilko (GESIS)
+ **Role**: Project Member 
+ **Runtime**: 2022-06-01 – 2023-09-30 (finished)
+ **Funding**: DFG - Deutsche Forschungsgemeinschaft
+ 
+ More Info: [DIW Web](https://www.diw.de/de/diw_01.c.862891.de/projekte/linked_open_research_data_for_social_science_pilot_study__lordpilot.html)
+ 
+ 
+ HaSpaD - Harmonizing and synthesizing partnership histories from different research data infrastructures: A model project for linking research data from various infrastructure
+======
+ 
+ This research project harmonises and cumulates survey-based, longitudinal data compiled from relationship biographies. By pooling these data sources, the project pursues two primary goals: First, utilising and improving contemporary research methods for data synthesis, this research project aimed to further increase the importance and visibility of evidence-based social science research. Second, the pooled data set allows to investigate previously unanswered questions regarding relationship stability from a historical and life-course perspective, for example concerning the reasons for the increase of divorce rates over the last decades and whether risk factors for separation have changed. 
+ 
+ **Leader**: Dr. Sonja Schulz (GESIS), Dr. Bernd Weiss (GESIS)
+ **Team**: Anna-Carolina Haensch (GESIS), Sebastian Sterl (GESIS), Lisa Schmid (GESIS), Antonia May 
+ **Role**: Project Member (2020-07-01 - 2022-05-31)
+ **Runtime**: 2017-10-01 - 2022-05-31 (finished)
+ **Funding**: DFG - Deutsche Forschungsgemeinschaft
+ 
+ More Info: [GESIS Web](https://www.gesis.org/en/research/external-funding-projects/details/project/26/harmonisierung-und-synthese-von-paarbiografischen-daten)
+ Harmonisation Files: [GESIS Search](https://doi.org/10.7802/2429)
 
+ONBound - Old and new boundaries: National Identities and Religion
+======
+
+ ![ONBound project](images/onbound_graph.png)
+ In times of globalization on the one hand, and growing divergence also within society e.g. in terms of wealth and life chances on the other hand, national and religious identities seem to re-gain salience as markers for exclusion, or inclusion, for a differentiation between "us" and "them". 
+ The ONBound project seeks to increase the understanding of how national and religious identities are intertwined, or exclude each other, in the modern world. On this purpose, we browsed a vast array of existing individual level and contextual data and built a database that offers the opportunity for scientific research to explore these issues. Beyond individual-level survey data the database contains relevant country-level indicators for research questions on one or both topics.Due to copyright restrictions, researchers need to download the original datasets from the original sources. Thereupon, ONBound provides a set of customized syntax files for cumulation and harmonization of the data.
+
+ **Leader**: Dr. Insa Bechert (GESIS), Dr. Markus Quandt (GESIS), Prof. Dr. Annette Schnabel (Heinrich-Heine-University Düsseldorf)
+ **Team**: Katharina Werhan (GESIS), Antonia May (GESIS), Kathrin Behrens (Heinrich-Heine-University Düsseldorf), Dr. Brigitte Mathiak (GESIS, Harmonization Wizard), Matthäus Zloch (GESIS, Harmonization Wizard)
+ **Collaborators**: Prof. Dr. Ferruccio Biolcati-Rinaldi and Dr. Cristiano Vezzoni (both University of Milan, Italy), Prof. Dr. Mikael Hjerm (University of Umea, Sweden)
+ **Role**: Project Member (2017-07-17 - 2021-06-30)
+ **Runtime**: 2017-10-01 - 2022-05-31 (finished)
+ **Funding**: DFG - Deutsche Forschungsgemeinschaft
+ 
+ More Info: [GESIS Web](https://www.gesis.org/en/services/processing-and-analyzing-data/data-harmonization/onbound)
 	
-Selected Conference Presentations
-======	
- May, Antonia "Ready or not. National identity, vote choice, and mass media - Evidence from Germany." 
- - (2024) 29. DVPW-Kongress, 24.-27. September 2024, Georg-August-Universität Göttingen, 2024-09-24. 
- - (2023) 5th Annual U.K. Political Psychology Conference 27 - 31 March 2023, Online, 2023-03-31.
- - (2023) The Association for the Study of Ethnicity and Nationalism (ASEN) Conference 2023: Nationalism and Multiculturalism, 3rd to 5th April 2023, University of Loughborough, United Kingdom, 2023-04-03. 
- - (2023) European Political Science Association (EPSA) 13th Annual Conference, University of Strathclyde, Glasgow, 2023-06-24. 
-
- May, Antonia, and Christian Czymara (2021). "Mobilizing identities? Longitudinal comparative evidence on national identity, political elite discourses and far-right voting." European Consortium for Political Research (ECPR) General Conference, 30.08.-03.09.2021, Online, 2021-09-02. 
- 
- May, Antonia (2019). "A Comparative Perspective on Similarities and Differences in Patterns of National Identity." European Consortium for Political Research (ECPR), General Conference, 04.09.-07.09.2019 , 2019-09-04.
- 
- May, Antonia (2018). "National identity patterns and their effects on right-wing populist attitudes in Germany." 44th Annual Conference of the International Association for the Study of German Politics (IASGP), 2018-05-30. 
- 
- 
-Other Publications
-======	
-
- Giebler, Heiko, Josephine Lichteblau, Antonia May, Reinhold Melcher, Marcus Spittler, Aiko Wagner, and Bernhard Weßels (2014). "GLES Kandidatenstudie 2013: Motive, Nominierungen, Wahlkampf, Repräsentation und Demokratie aus der Sicht der Bundestagskandidatinnen und Bundestagskandidaten - Kurzbericht." 
-  
- Wagner, Aiko, and Antonia May (2013). "Linksliberale Enterhaken : geht die Fragmentierung des Parteiensystems in eine neue Runde?" MIP - Mitteilungen des Instituts für Deutsches und Internationales Parteienrecht und Parteienforschung 19 130-133. [http://www.pruf.de/fileadmin/redaktion/Oeffentliche_Medien/PRuF/MIP/MIP_2013.pdf](http://www.pruf.de/fileadmin/redaktion/Oeffentliche_Medien/PRuF/MIP/MIP_2013.pdf).
- 
- May, Antonia (2012). "Eine Partei sucht ihre Wähler: Schatzsuche in politischen Fahrwassern." Berliner Debatte Initial 23 (3): 126-140. 

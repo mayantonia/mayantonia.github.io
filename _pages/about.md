@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Welcome!"
+excerpt: About me 
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,6 +12,4 @@ Hi! I am a social scientist at GESIS - Leibniz Institute for the Social Sciences
 
 My research focuses on national identities, political attitudes, and the activation of social identities for political behaviour. I am also interested in data harmonisation and survey research. My research draws on pooled cross-sectional data, panel survey data, and experimental data.
 
-I completed my PhD in October 2024 at the Chair of Political Sociology at the University of Bamberg. In my dissertation, I investigate whether far-right parties attract individuals with specific conceptions of nationality. I find that national identity affects voting, especially in times when national and immigration-related issues are at the forefront of public debate.
-
-This academic site is currently under construction. More information about my research will follow soon.
+I completed my PhD in October 2024 at the Chair of Political Sociology at the University of Bamberg. In my dissertation, I focus on how citizens imagine their national in-group, whether these images can be generalised across countries, time, and survey instruments, and whether and under what conditions they become relevant for political behaviour. National identity studies, electoral research, and social psychological theories are the theoretical underpinnings of my work. Methodologically, I use exploratory methods alongside multi-level analysis and hybrid random effects models of panel data analysis.

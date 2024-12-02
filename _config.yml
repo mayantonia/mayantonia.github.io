@@ -13,10 +13,14 @@ title_separator          : "-"
 name                     : &name "Antonia C. May"
 description              : &description "National Identities, Political Behaviour, Identity Activation, Data Harmonisation"
 <<<<<<< HEAD
+<<<<<<< HEAD
 url                      : https://mayantonia.github.io # https://antoniamay.com #the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 =======
 url                      : https://mayantonia.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 >>>>>>> parent of a6705e1 (Update _config.yml)
+=======
+url                      : https://antoniamay.com #https://mayantonia.github.io the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+>>>>>>> parent of 8b220d9 (Update _config.yml)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mayantonia/mayantonia.github.io"
 

@@ -15,6 +15,15 @@ To Draw a Line: National Identities and their Political Consequences. (*Disserta
  
  How individuals draw the line between compatriots and outsiders thereby plays a crucial role in explaining far-right attitudes and voting. I have identified meaningful types of national boundary-making across countries, time, different survey instruments, and empirical studies, with those individuals with narrow conceptions of their national in-group being significantly more likely to choose a far-right party. This relationship is particularly strong in times when public debate focuses on national or immigration-related issues. Specifically, national identities are activated by the accommodation of extreme right-wing immigration positions by political elites of all parties, as well as by the presence of immigration-related issues in the mass media, which is of particular benefit to extreme right-wing parties, not only in general, but also specifically by activating those with narrow conceptions.  
  
+ **Output**:  
+ *Articles*  
+ 1. May, Antonia C., & Christian S. Czymara (2024). Careless whisper: Political elite discourses activate national identities for far-right voting preferences. Nations and Nationalism, 30(1), 90–109. [https://doi.org/10.1111/nana.12985](https://doi.org/10.1111/nana.12985).  
+ 1. May, Antonia C. (2023). And if they don't dance, they are no friends of mine: Exploring boundaries of national identity. Nations and Nationalism, 29(2), 579–597. [https://doi.org/10.1111/nana.12926](https://doi.org/10.1111/nana.12926).  
+ 
+ *Blogposts*  
+ 1. The Loop: [Mainstream parties adopting far-right rhetoric simply increases votes for far-right parties](https://theloop.ecpr.eu/mainstream-parties-adopting-far-right-rhetoric-simply-increases-votes-for-far-right-parties/)
+ 1. GESIS Blog: [Exclusionary Rhetoric Use by Any Political Party Increases Votes for Far-Right Parties​](https://blog.gesis.org/exclusionary-rhetoric-use-by-any-political-party-increases-votes-for-far-right-parties/)
+ 
  *finished*
  
 NexCiCo - A Next-Generation Randomised Citizen Council for Encouraging Political Participation at the Local Level

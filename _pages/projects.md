@@ -15,12 +15,14 @@ To Draw a Line: National Identities and their Political Consequences. (*Disserta
  
  How individuals draw the line between compatriots and outsiders thereby plays a crucial role in explaining far-right attitudes and voting. I have identified meaningful types of national boundary-making across countries, time, different survey instruments, and empirical studies, with those individuals with narrow conceptions of their national in-group being significantly more likely to choose a far-right party. This relationship is particularly strong in times when public debate focuses on national or immigration-related issues. Specifically, national identities are activated by the accommodation of extreme right-wing immigration positions by political elites of all parties, as well as by the presence of immigration-related issues in the mass media, which is of particular benefit to extreme right-wing parties, not only in general, but also specifically by activating those with narrow conceptions.  
  
+ *finished*
+ 
 NexCiCo - A Next-Generation Randomised Citizen Council for Encouraging Political Participation at the Local Level
 ======
 
  NexCiCo examines the impact of citizen councils on political attitudes.
 
- **Leader**: [Dr. Sebastian Ziaja](https://www.gesis.org/en/institute/about-us/staff/person/Sebastian.Ziaja?no_cache=1)  
+ **Lead**: [Dr. Sebastian Ziaja](https://www.gesis.org/en/institute/about-us/staff/person/Sebastian.Ziaja?no_cache=1)  
  **Team**: Antonia May (Project Member)  
  **Runtime**: 2024-05-01 – 2025-04-30 (ongoing)  
  **Funding**: VolkswagenStiftung  
@@ -33,7 +35,7 @@ LORDpilot - Linked Open Research Data for Social Science Pilot Study
 
  The ‘LORDpilot’ project evaluates the practicability of a Concept Registry for the social and economic sciences, develops a basic data model for the Concept Registry and a user-friendly application. To this end, exemplary for a selection of overlapping content of important data collections in the disciplines (ALLBUS, SOEP, Nacaps) concepts are identified, questions and variables are linked to the concepts, and relationships across the concepts between the data collections are established. Theoretical concepts are identified through intellectual analysis and comparison, as well as research on measurement tools and dataset-related publications.
  
- **Leader**: Dr. Andreas Daniel (DZHW), Dr. Jan Goebel (DIW), [Dr. Dagmar Kern (GESIS)](https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/dagmar.kern), [Dr. Pascal Siegers (GESIS)](https://www.gesis.org/en/institute/about-us/staff/person/pascal.siegers)  
+ **Lead**: Dr. Andreas Daniel (DZHW), Dr. Jan Goebel (DIW), [Dr. Dagmar Kern (GESIS)](https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/dagmar.kern), [Dr. Pascal Siegers (GESIS)](https://www.gesis.org/en/institute/about-us/staff/person/pascal.siegers)  
  **Team**: Daniel Klein (DZHW), Antonia May, Fakhri Momeni (GESIS), Jana Nebelin (DIW), Claudia Saalbach (DIW), Knut Wenzig (DIW), Dr. Benjamin Zapilko (GESIS)  
  **Role**: Project Member  
  **Runtime**: 2022-06-01 – 2023-09-30 (finished)  
@@ -47,7 +49,7 @@ LORDpilot - Linked Open Research Data for Social Science Pilot Study
  
  This research project harmonises and cumulates survey-based, longitudinal data compiled from relationship biographies. By pooling these data sources, the project pursues two primary goals: First, utilising and improving contemporary research methods for data synthesis, this research project aimed to further increase the importance and visibility of evidence-based social science research. Second, the pooled data set allows to investigate previously unanswered questions regarding relationship stability from a historical and life-course perspective, for example concerning the reasons for the increase of divorce rates over the last decades and whether risk factors for separation have changed. 
  
- **Leader**: Dr. Sonja Schulz (GESIS), Dr. Bernd Weiss (GESIS)  
+ **Lead**: Dr. Sonja Schulz (GESIS), Dr. Bernd Weiss (GESIS)  
  **Team**: Anna-Carolina Haensch (GESIS), Sebastian Sterl (GESIS), Lisa Schmid (GESIS), Antonia May  
  **Role**: Project Member (2020-07-01 - 2022-05-31)  
  **Runtime**: 2017-10-01 - 2022-05-31 (finished)  
@@ -58,12 +60,12 @@ LORDpilot - Linked Open Research Data for Social Science Pilot Study
 
 ONBound - Old and new boundaries: National Identities and Religion
 ======
- <center><img src="/images/onbound_graph.png"></center>  
+ <img src="/images/onbound_graph.png" width="500" align="right">  
  
  In times of globalization on the one hand, and growing divergence also within society e.g. in terms of wealth and life chances on the other hand, national and religious identities seem to re-gain salience as markers for exclusion, or inclusion, for a differentiation between "us" and "them". 
  The ONBound project seeks to increase the understanding of how national and religious identities are intertwined, or exclude each other, in the modern world. On this purpose, we browsed a vast array of existing individual level and contextual data and built a database that offers the opportunity for scientific research to explore these issues. Beyond individual-level survey data the database contains relevant country-level indicators for research questions on one or both topics.Due to copyright restrictions, researchers need to download the original datasets from the original sources. Thereupon, ONBound provides a set of customized syntax files for cumulation and harmonization of the data.
 
- **Leader**: Dr. Insa Bechert (GESIS), Dr. Markus Quandt (GESIS), Prof. Dr. Annette Schnabel (Heinrich-Heine-University Düsseldorf)  
+ **Lead**: Dr. Insa Bechert (GESIS), Dr. Markus Quandt (GESIS), Prof. Dr. Annette Schnabel (Heinrich-Heine-University Düsseldorf)  
  **Team**: Katharina Werhan (GESIS), Antonia May (GESIS), Kathrin Behrens (Heinrich-Heine-University Düsseldorf), Dr. Brigitte Mathiak (GESIS, Harmonization Wizard), Matthäus Zloch (GESIS, Harmonization Wizard)  
  **Collaborators**: Prof. Dr. Ferruccio Biolcati-Rinaldi and Dr. Cristiano Vezzoni (both University of Milan, Italy), Prof. Dr. Mikael Hjerm (University of Umea, Sweden)  
  **Role**: Project Member (2017-07-17 - 2021-06-30)  

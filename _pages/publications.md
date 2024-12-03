@@ -40,7 +40,7 @@ Data
  Giebler, Heiko, Josephine Lichteblau, Antonia May, Reinhold Melcher, Aiko Wagner, and Bernhard Weßels (2016). "CSES MODULE 1-3 HARMONIZED TREND FILE [dataset]" : May 31, 2016 version. [doi: 10.7804/cses.trendfile.2016-05-31]( https://doi.org/10.7804/cses.trendfile.2016-05-31).
 
 	
-Selected Conference Presentations
+Selected conference presentations
 ======	
  May, Antonia "Ready or not. National identity, vote choice, and mass media - Evidence from Germany." 
  - (2024) 29. DVPW-Kongress, 24.-27. September 2024, Georg-August-Universität Göttingen, 2024-09-24. 
@@ -55,7 +55,7 @@ Selected Conference Presentations
  May, Antonia (2018). "National identity patterns and their effects on right-wing populist attitudes in Germany." 44th Annual Conference of the International Association for the Study of German Politics (IASGP), 2018-05-30. 
  
  
-Other Publications
+Other publications
 ======	
 
  Giebler, Heiko, Josephine Lichteblau, Antonia May, Reinhold Melcher, Marcus Spittler, Aiko Wagner, and Bernhard Weßels (2014). "GLES Kandidatenstudie 2013: Motive, Nominierungen, Wahlkampf, Repräsentation und Demokratie aus der Sicht der Bundestagskandidatinnen und Bundestagskandidaten - Kurzbericht." 

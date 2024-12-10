@@ -14,6 +14,8 @@ To Draw a Line: National Identities and their Political Consequences. (*Disserta
  Despite increased globalisation and growing international migration, nation states, nationalism, and national identification continue to play a crucial role. Particuarly, nationalist positions have recently regained ground dramatically in national politics. The recent resurgence and the successes of far-right parties emphasising national exclusivity (Mudde 2007; Halikiopoulou et al. 2013; Halikiopoulou and Vlandas 2019) demonstrate the continuing relevance of national identity for individuals. This relevance of the nation to the individual, and particularly the political consequences of this relevance, is the focus of my dissertation.
  
  How individuals draw the line between compatriots and outsiders thereby plays a crucial role in explaining far-right attitudes and voting. I have identified meaningful types of national boundary-making across countries, time, different survey instruments, and empirical studies, with those individuals with narrow conceptions of their national in-group being significantly more likely to choose a far-right party. This relationship is particularly strong in times when public debate focuses on national or immigration-related issues. Specifically, national identities are activated by the accommodation of extreme right-wing immigration positions by political elites of all parties, as well as by the presence of immigration-related issues in the mass media, which is of particular benefit to extreme right-wing parties, not only in general, but also specifically by activating those with narrow conceptions.  
+
+ *finished*  
  
  **Output**:  
  *Articles*  
@@ -24,7 +26,12 @@ To Draw a Line: National Identities and their Political Consequences. (*Disserta
  1. The Loop: [Mainstream parties adopting far-right rhetoric simply increases votes for far-right parties](https://theloop.ecpr.eu/mainstream-parties-adopting-far-right-rhetoric-simply-increases-votes-for-far-right-parties/)
  1. GESIS Blog: [Exclusionary Rhetoric Use by Any Political Party Increases Votes for Far-Right Parties​](https://blog.gesis.org/exclusionary-rhetoric-use-by-any-political-party-increases-votes-for-far-right-parties/)
  
- *finished*
+ *Media*  
+ 1. “Imiter l’extrême droite pour lui prendre des voix, un très mauvais calcul electoral” [Alternatives Economiques](https://www.alternatives-economiques.fr/copier-lextreme-lui-prendre-voix-un-tres-mauvais-calcul-ele/00109847)  
+ 1. “Adopting far-right rhetoric increases far-right votes” [Social Europe](https://www.socialeurope.eu/adopting-far-right-rhetoric-increases-
+far-right-votes)  
+ 1. „Studie: Ausgrenzungsrhetorik etablierter Parteien stärkt Rückhalt für 
+rechtsextreme Parteien“ [berlin.de](https://www.berlin.de/politische-bildung/politikportal/blog/artikel.1383638.php)
  
 NexCiCo - A Next-Generation Randomised Citizen Council for Encouraging Political Participation at the Local Level
 ======

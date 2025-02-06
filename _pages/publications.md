@@ -14,6 +14,8 @@ In the spirit of transparent and replicable research, you can find the replicati
 Peer-reviewed journal articles
 ======
 
+ May, Antonia C. (forthcoming). Ready or not. National Identity, Vote Choice, and Mass Media: Evidence from Germany. Political Psychology. 
+ 
  May, Antonia C., & Christian S. Czymara (2024). Careless whisper: Political elite discourses activate national identities for far-right voting preferences. Nations and Nationalism, 30(1), 90–109. [https://doi.org/10.1111/nana.12985](https://doi.org/10.1111/nana.12985). 
  
  May, Antonia C. (2023). And if they don't dance, they are no friends of mine: Exploring boundaries of national identity. Nations and Nationalism, 29(2), 579–597. [https://doi.org/10.1111/nana.12926](https://doi.org/10.1111/nana.12926).

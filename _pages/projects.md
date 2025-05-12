@@ -19,11 +19,12 @@ To Draw a Line: National Identities and their Political Consequences. (*Disserta
  
  **Output**:  
  *Articles*  
+ 1. May, Antonia C. (2025). May, Antonia C. (2025). Ready or not. National Identity, Vote Choice, and Mass Media: Evidence from Germany. Political Psychology, 00, 1–23. [https://doi.org/10.1111/pops.70005.](https://doi.org/10.1111/pops.70005.)
  1. May, Antonia C., & Christian S. Czymara (2024). Careless whisper: Political elite discourses activate national identities for far-right voting preferences. Nations and Nationalism, 30(1), 90–109. [https://doi.org/10.1111/nana.12985](https://doi.org/10.1111/nana.12985).  
  1. May, Antonia C. (2023). And if they don't dance, they are no friends of mine: Exploring boundaries of national identity. Nations and Nationalism, 29(2), 579–597. [https://doi.org/10.1111/nana.12926](https://doi.org/10.1111/nana.12926).  
  
  *Blogposts*  
- 1. The Loop: [Mainstream parties adopting far-right rhetoric simply increases votes for far-right parties](https://theloop.ecpr.eu/mainstream-parties-adopting-far-right-rhetoric-simply-increases-votes-for-far-right-parties/)
+ 1. ECPR The Loop: [Mainstream parties adopting far-right rhetoric simply increases votes for far-right parties](https://theloop.ecpr.eu/mainstream-parties-adopting-far-right-rhetoric-simply-increases-votes-for-far-right-parties/)
  1. GESIS Blog: [Exclusionary Rhetoric Use by Any Political Party Increases Votes for Far-Right Parties​](https://blog.gesis.org/exclusionary-rhetoric-use-by-any-political-party-increases-votes-for-far-right-parties/)
  
  *Media*  
@@ -33,6 +34,16 @@ far-right-votes)
  1. „Studie: Ausgrenzungsrhetorik etablierter Parteien stärkt Rückhalt für 
 rechtsextreme Parteien“ [berlin.de](https://www.berlin.de/politische-bildung/politikportal/blog/artikel.1383638.php)
  
+PoMigDem - Democratic Values Among Migrants from Authoritarian Regimes (Teilprojekt)
+======
+ The project investigates how migrants' democratic values differ from those of non-migrants and how these differences can be explained by socialisation processes in countries of origin and destination. The project aims to use more specific indicators to better understand how people perceive ‘democracy’ and to investigate whether migrants from authoritarian regimes adapt their values after migrating to democratic countries or whether it is mainly people with already strong democratic values who tend to migrate. Another aspect is how important people find democratic norms compared to other political goals, which will be tested in trade-off experiments to determine the willingness to compromise on democratic values. Finally, the influence of social norms on migrants' democratic attitudes will be investigated, in particular through list experiments designed to uncover the role of social desirability. The results will show the extent to which democratic regimes act as incentives to migrate, the influence of political socialisation in non-democratic regimes on support for democratic values and how education and integration measures can promote democratic values.
+ **Lead**: [Prof. Dr. Marc Helbling](https://www.sowi.uni-mannheim.de/helbling/),[Dr. Sandra Morgenstern](https://www.sowi.uni-mannheim.de/helbling/team/akademische-mitarbeiter/dr-morgenstern-sandra/), [Dr. Korinna Lindemann](https://www.mzes.uni-mannheim.de/en/people/detail/korinna-lindemann)
+ **Tean**: Antonia May (Project Member) 
+ **Runtime**: 2025-01-01 - 2025-12-31 (ongoing)
+ **Funding**: BMFSFJ
+ 
+ More Info: [MZES Web](https://www.mzes.uni-mannheim.de/en/projects/detail/democratic-values-among-migrants-from-authoritarian-regimes)
+
 NexCiCo - A Next-Generation Randomised Citizen Council for Encouraging Political Participation at the Local Level
 ======
 
@@ -40,7 +51,7 @@ NexCiCo - A Next-Generation Randomised Citizen Council for Encouraging Political
 
  **Lead**: [Dr. Sebastian Ziaja](https://www.gesis.org/en/institute/about-us/staff/person/Sebastian.Ziaja?no_cache=1)  
  **Team**: Antonia May (Project Member)  
- **Runtime**: 2024-05-01 – 2025-04-30 (ongoing)  
+ **Runtime**: 2024-05-01 – 2025-04-30 (finished)  
  **Funding**: VolkswagenStiftung  
  
  More Info: [GESIS Web](https://www.gesis.org/en/research/external-funding-projects/details/project/251)

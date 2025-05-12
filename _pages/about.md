@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a social scientist at GESIS - Leibniz Institute for the Social Sciences and MZES - Mannheimer Zentrum für Europäische Sozialforschung.
+Hi! I am a social scientist at MZES - University of Mannheim.
 
 My research focuses on national identities, political attitudes, and the activation of social identities for political behaviour. I am also interested in data harmonisation and survey research. My research draws on pooled cross-sectional data, panel survey data, and experimental data.
 

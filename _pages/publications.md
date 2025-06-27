@@ -44,6 +44,8 @@ Data
 	
 Selected conference presentations
 ======	
+ May, Antonia and Anne Stroppe (2025). "Activation of Local Identities for Political Behaviour", European Political Science Association (EPSA) 15th Annual Conference, Madrid, 2025-06-28.
+ 
  May, Antonia "Ready or not. National identity, vote choice, and mass media - Evidence from Germany." 
  - (2024) 29. DVPW-Kongress, 24.-27. September 2024, Georg-August-Universität Göttingen, 2024-09-24. 
  - (2023) 5th Annual U.K. Political Psychology Conference 27 - 31 March 2023, Online, 2023-03-31.
@@ -60,6 +62,7 @@ Invited Talks
 ======	
  
  May, Antonia & Christian Czymara (2025) "Zwischen Zugehörigkeit und Abgrenzung: Nationale Identitäten, öffentliche Debatten und Wahlentscheidungen", Ringvorlesung "Von Nationen und Narrativen - Identitäten in multiethnischen Gesellschaften" des Fachschaftsrats Politikwissenschaften 2025, Johannes Gutenberg University Mainz, Mainz, 2025-06-17.
+ 
  May, Antonia (2025) "Nationalisten auf dem Vormarsch: Wie Politik, Medien und unser Selbstbild sie stärken", Shortlist Deutscher Studienpreis der Körberstiftung, Berlin, 2025-06-23.
 
 Other publications

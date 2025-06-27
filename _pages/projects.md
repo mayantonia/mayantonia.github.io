@@ -34,6 +34,10 @@ far-right-votes)
  1. „Studie: Ausgrenzungsrhetorik etablierter Parteien stärkt Rückhalt für 
 rechtsextreme Parteien“ [berlin.de](https://www.berlin.de/politische-bildung/politikportal/blog/artikel.1383638.php)
  
+ *Invited Talks*
+ 1. "Zwischen Zugehörigkeit und Abgrenzung: Nationale Identitäten, öffentliche Debatten und Wahlentscheidungen", invited to Ringvorlesung "Von Nationen und Narrativen - Identitäten in multiethnischen Gesellschaften" des Fachschaftsrats Politikwissenschaften, Universität Mainz, SoSe2025, 17-06-2025.
+ 1. "Nationalisten auf dem Vormarsch: Wie Politik, Medien und unser Selbstbild sie stärken", Shortlist Sozialwissenschaften Deutscher Studienpreis 2025, Körberstiftung, 23-06-2025. 
+ 
 PoMigDem - Democratic Values Among Migrants from Authoritarian Regimes (Teilprojekt)
 ======
  The project investigates how migrants' democratic values differ from those of non-migrants and how these differences can be explained by socialisation processes in countries of origin and destination. The project aims to use more specific indicators to better understand how people perceive ‘democracy’ and to investigate whether migrants from authoritarian regimes adapt their values after migrating to democratic countries or whether it is mainly people with already strong democratic values who tend to migrate. Another aspect is how important people find democratic norms compared to other political goals, which will be tested in trade-off experiments to determine the willingness to compromise on democratic values. Finally, the influence of social norms on migrants' democratic attitudes will be investigated, in particular through list experiments designed to uncover the role of social desirability. The results will show the extent to which democratic regimes act as incentives to migrate, the influence of political socialisation in non-democratic regimes on support for democratic values and how education and integration measures can promote democratic values.

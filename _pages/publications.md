@@ -56,7 +56,12 @@ Selected conference presentations
  
  May, Antonia (2018). "National identity patterns and their effects on right-wing populist attitudes in Germany." 44th Annual Conference of the International Association for the Study of German Politics (IASGP), 2018-05-30. 
  
+Invited Talks
+======	
  
+ May, Antonia & Christian Czymara (2025) "Zwischen Zugehörigkeit und Abgrenzung: Nationale Identitäten, öffentliche Debatten und Wahlentscheidungen", Ringvorlesung "Von Nationen und Narrativen - Identitäten in multiethnischen Gesellschaften" des Fachschaftsrats Politikwissenschaften 2025, Johannes Gutenberg University Mainz, Mainz, 2025-06-17.
+ May, Antonia (2025) "Nationalisten auf dem Vormarsch: Wie Politik, Medien und unser Selbstbild sie stärken", Shortlist Deutscher Studienpreis der Körberstiftung, Berlin, 2025-06-23.
+
 Other publications
 ======	
 
@@ -65,3 +70,4 @@ Other publications
  Wagner, Aiko, and Antonia May (2013). "Linksliberale Enterhaken : geht die Fragmentierung des Parteiensystems in eine neue Runde?" MIP - Mitteilungen des Instituts für Deutsches und Internationales Parteienrecht und Parteienforschung 19 130-133. [http://www.pruf.de/fileadmin/redaktion/Oeffentliche_Medien/PRuF/MIP/MIP_2013.pdf](http://www.pruf.de/fileadmin/redaktion/Oeffentliche_Medien/PRuF/MIP/MIP_2013.pdf).
  
  May, Antonia (2012). "Eine Partei sucht ihre Wähler: Schatzsuche in politischen Fahrwassern." Berliner Debatte Initial 23 (3): 126-140. 
+

@@ -28,6 +28,7 @@ To Draw a Line: National Identities and their Political Consequences. (*Disserta
  1. GESIS Blog: [Exclusionary Rhetoric Use by Any Political Party Increases Votes for Far-Right Parties​](https://blog.gesis.org/exclusionary-rhetoric-use-by-any-political-party-increases-votes-for-far-right-parties/)
  
  *Media*  
+ 1. Featured in book: "Rechtsextremismus bekämpfen: Was sagt die Wissenschaft?", Katapult. 
  1. “Imiter l’extrême droite pour lui prendre des voix, un très mauvais calcul electoral” [Alternatives Economiques](https://www.alternatives-economiques.fr/copier-lextreme-lui-prendre-voix-un-tres-mauvais-calcul-ele/00109847)  
  1. “Adopting far-right rhetoric increases far-right votes” [Social Europe](https://www.socialeurope.eu/adopting-far-right-rhetoric-increases-
 far-right-votes)  

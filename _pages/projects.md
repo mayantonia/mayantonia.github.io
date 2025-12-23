@@ -43,10 +43,10 @@ PoMigDem - Democratic Values Among Migrants from Authoritarian Regimes (Teilproj
 ======
  The project investigates how migrants' democratic values differ from those of non-migrants and how these differences can be explained by socialisation processes in countries of origin and destination. The project aims to use more specific indicators to better understand how people perceive ‘democracy’ and to investigate whether migrants from authoritarian regimes adapt their values after migrating to democratic countries or whether it is mainly people with already strong democratic values who tend to migrate. Another aspect is how important people find democratic norms compared to other political goals, which will be tested in trade-off experiments to determine the willingness to compromise on democratic values. Finally, the influence of social norms on migrants' democratic attitudes will be investigated, in particular through list experiments designed to uncover the role of social desirability. The results will show the extent to which democratic regimes act as incentives to migrate, the influence of political socialisation in non-democratic regimes on support for democratic values and how education and integration measures can promote democratic values.
 
- **Lead**: [Prof. Dr. Marc Helbling](https://www.sowi.uni-mannheim.de/helbling/),[Dr. Sandra Morgenstern](https://www.sowi.uni-mannheim.de/helbling/team/akademische-mitarbeiter/dr-morgenstern-sandra/), [Dr. Korinna Lindemann](https://www.mzes.uni-mannheim.de/en/people/detail/korinna-lindemann)
- **Tean**: Antonia May (Project Member) 
- **Runtime**: 2025-01-01 - 2025-12-31 (ongoing)
- **Funding**: BMFSFJ
+ **Lead**: [Prof. Dr. Marc Helbling](https://www.sowi.uni-mannheim.de/helbling/),[Dr. Sandra Morgenstern](https://www.sowi.uni-mannheim.de/helbling/team/akademische-mitarbeiter/dr-morgenstern-sandra/), [Dr. Korinna Lindemann](https://www.mzes.uni-mannheim.de/en/people/detail/korinna-lindemann)  
+ **Tean**: Antonia May (Project Member)  
+ **Runtime**: 2025-01-01 - 2025-12-31 (ongoing)  
+ **Funding**: BMFSFJ  
  
  More Info: [MZES Web](https://www.mzes.uni-mannheim.de/en/projects/detail/democratic-values-among-migrants-from-authoritarian-regimes)
 

@@ -44,6 +44,8 @@ Data
 	
 Selected conference presentations
 ======	
+ May, Antonia and Christian S. Czymara (2025). "The Impact of National Boundaries on Immigrant Populations", Workshop: Political Identities in Europe, University of Amsterdam, Amsterdam, 2025-11-13. 
+ 
  May, Antonia and Anne Stroppe (2025). "Activation of Local Identities for Political Behaviour", European Political Science Association (EPSA) 15th Annual Conference, Madrid, 2025-06-28.
  
  May, Antonia "Ready or not. National identity, vote choice, and mass media - Evidence from Germany." 

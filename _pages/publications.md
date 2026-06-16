@@ -46,9 +46,13 @@ Data
 	
 Selected conference presentations
 ======	
- May, Antonia and Christian S. Czymara (2025). "The Impact of National Boundaries on Immigrant Populations", Workshop: Political Identities in Europe, University of Amsterdam, Amsterdam, 2025-11-13. 
+ May, Antonia, and Christian S. Czymara. "Drawing the Line: National Identity, Belonging and Participation among Immigrants in the UK and Germany"
+ - (2026) 1st European Political Science Society (EPSS), 2026-06-18, Belfast. 
+ - (2026) European Consortium for Sociological Research (ECSR) Annual General Conference 2026, 2026-06-16, Dublin. 
+ - (2026) Annual Conference of the DVPW Working Group Elections and Political Attitudes 2026 (AK Wahlen), 2026-05-07.
+ - (2025) Workshop: Political Identities in Europe, University of Amsterdam, Amsterdam, 2025-11-13. 
  
- May, Antonia and Anne Stroppe (2025). "Activation of Local Identities for Political Behaviour", European Political Science Association (EPSA) 15th Annual Conference, Madrid, 2025-06-28.
+ May, Antonia, and Anne Stroppe (2025). "Activation of Local Identities for Political Behaviour", European Political Science Association (EPSA) 15th Annual Conference, Madrid, 2025-06-28.
  
  May, Antonia "Ready or not. National identity, vote choice, and mass media - Evidence from Germany." 
  - (2024) 29. DVPW-Kongress, 24.-27. September 2024, Georg-August-Universität Göttingen, 2024-09-24. 
@@ -56,7 +60,7 @@ Selected conference presentations
  - (2023) The Association for the Study of Ethnicity and Nationalism (ASEN) Conference 2023: Nationalism and Multiculturalism, 3rd to 5th April 2023, University of Loughborough, United Kingdom, 2023-04-03. 
  - (2023) European Political Science Association (EPSA) 13th Annual Conference, University of Strathclyde, Glasgow, 2023-06-24. 
 
- May, Antonia, and Christian Czymara (2021). "Mobilizing identities? Longitudinal comparative evidence on national identity, political elite discourses and far-right voting." European Consortium for Political Research (ECPR) General Conference, 30.08.-03.09.2021, Online, 2021-09-02. 
+ May, Antonia, and Christian S. Czymara (2021). "Mobilizing identities? Longitudinal comparative evidence on national identity, political elite discourses and far-right voting." European Consortium for Political Research (ECPR) General Conference, 30.08.-03.09.2021, Online, 2021-09-02. 
  
  May, Antonia (2019). "A Comparative Perspective on Similarities and Differences in Patterns of National Identity." European Consortium for Political Research (ECPR), General Conference, 04.09.-07.09.2019 , 2019-09-04.
  

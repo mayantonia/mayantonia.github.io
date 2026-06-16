@@ -19,7 +19,7 @@ To Draw a Line: National Identities and their Political Consequences. (*Disserta
  
  **Output**:  
  *Articles*  
- 1. May, Antonia C. (2025). May, Antonia C. (2025). Ready or not. National Identity, Vote Choice, and Mass Media: Evidence from Germany. Political Psychology, 00, 1–23. [https://doi.org/10.1111/pops.70005.](https://doi.org/10.1111/pops.70005.)
+ 1. May, Antonia C. (2025). Ready or not. National Identity, Vote Choice, and Mass Media: Evidence from Germany. Political Psychology, 00, 1–23. [ https://doi.org/10.1111/pops.70005]( https://doi.org/10.1111/pops.70005)
  1. May, Antonia C., & Christian S. Czymara (2024). Careless whisper: Political elite discourses activate national identities for far-right voting preferences. Nations and Nationalism, 30(1), 90–109. [https://doi.org/10.1111/nana.12985](https://doi.org/10.1111/nana.12985).  
  1. May, Antonia C. (2023). And if they don't dance, they are no friends of mine: Exploring boundaries of national identity. Nations and Nationalism, 29(2), 579–597. [https://doi.org/10.1111/nana.12926](https://doi.org/10.1111/nana.12926).  
  
@@ -45,7 +45,7 @@ PoMigDem - Democratic Values Among Migrants from Authoritarian Regimes (Teilproj
 
  **Lead**: [Prof. Dr. Marc Helbling](https://www.sowi.uni-mannheim.de/helbling/),[Dr. Sandra Morgenstern](https://www.sowi.uni-mannheim.de/helbling/team/akademische-mitarbeiter/dr-morgenstern-sandra/), [Dr. Korinna Lindemann](https://www.mzes.uni-mannheim.de/en/people/detail/korinna-lindemann)  
  **Tean**: Antonia May (Project Member)  
- **Runtime**: 2025-01-01 - 2025-12-31 (ongoing)  
+ **Runtime**: 2025-01-01 - 2027-12-31 (ongoing)  
  **Funding**: BMFSFJ  
  
  More Info: [MZES Web](https://www.mzes.uni-mannheim.de/en/projects/detail/democratic-values-among-migrants-from-authoritarian-regimes)
